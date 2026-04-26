@@ -1,6 +1,6 @@
 # Hi there, I'm Bryan <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
-## I'm a Systems and Computing Engineer 
+## Systems and Computing Engineer 
 
 ### Languages and Tools 🛠 
 
